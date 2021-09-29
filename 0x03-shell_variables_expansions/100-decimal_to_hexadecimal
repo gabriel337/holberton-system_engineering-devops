@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(('1F'#$DECIMAL))
+echo $((1F#$DECIMAL))
