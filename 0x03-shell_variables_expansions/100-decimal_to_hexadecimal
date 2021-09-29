@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DECIMAL#9))
+echo $(($DECIMAL#A))
