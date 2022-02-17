@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Display content of current directory in a list format but only the name
+
+files="$(ls)"
+for f in $files;
+do
+    echo "$f" | cut -d "-" -f2
+done
