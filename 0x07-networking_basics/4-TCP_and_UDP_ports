@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Displays litening sockets and PID
+sudo netstat -lp
