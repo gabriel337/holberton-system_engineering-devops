@@ -1,5 +1,16 @@
 # 0x09. Web infrastructure design
 
+Each file in this repository holds a flowchart, from a simple infrastructure, to a distributed infrastructure, to a secured and monitored infrastructure.
+
+## Task 0
+<a href="https://imgur.com/IUF0jIS"><img src="https://i.imgur.com/IUF0jIS.png" title="source: imgur.com" /></a>
+
+## Task 1
+<a href="https://imgur.com/4Vah0dU"><img src="https://i.imgur.com/4Vah0dU.png" title="source: imgur.com" /></a>
+
+## Task 2
+<a href="https://imgur.com/1CsOtPu"><img src="https://i.imgur.com/1CsOtPu.png" title="source: imgur.com" /></a>
+
 #  Resources
 ## Read or watch:
 
