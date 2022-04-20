@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install nginx on web-01 serve
+# Install nginx on web-01 server
 
 sudo apt-get update
 sudo apt-get -y install nginx
